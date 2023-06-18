@@ -1,4 +1,4 @@
 # Belajar Github dan Flask
-
+git push 
 DSC Wave 9 Binar
-Pembelajaran GitMenggunakan Github untuk membuat API dengan Flask
+Pembelajaran Git Menggunakan Github untuk membuat API dengan Flask
